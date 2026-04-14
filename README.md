@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Asia! 👋
 
-<!--
-**asiawritesdocs/asiawritesdocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Technical Writer dedicated to bridging the gap between complex systems and the people who use them. With four years of experience managing an independent copywriting business and a background in education, I specialize in translating high-level technical requirements into clear, user-centric API documentation. I believe that great communication is the foundation of great software.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools
+* **Technical Writing:** Tutorial, Guide, Reference, and Explanation documentation types.
+* **Tools:** [Markdown](https://daringfireball.net/projects/markdown/), [JSON Crack](https://jsoncrack.com/), [GitHub](https://github.com/), [Postman](https://www.postman.com/), [Flodesk](https://flodesk.com/), [Mailchimp](https://mailchimp.com/).
+* **Communication:** Audience Analysis, Educational Design, User Interface (UI), and User Experience (UX).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+* **[Automotive Telematics & Service API](#)** - A comprehensive reference for vehicle health and service records.
+* **[Maritime Guest Services API](#)** - Industry-specific documentation for cruise ship excursions and stateroom management.
+* **[Flodesk Workflow Tutorial](#)** - A step-by-step guide for non-technical users to master email automation.
+
+### ✉️ Get in Touch
+* **Email:** asia.writes.docs@gmail.com
