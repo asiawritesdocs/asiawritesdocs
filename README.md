@@ -9,6 +9,7 @@ I’m a Technical Writer dedicated to bridging the gap between complex systems a
 
 ### 📂 Featured Projects
 * **[Automotive Telematics & Service API](https://github.com/asiawritesdocs/automotive-telematics-api)** - A comprehensive reference for vehicle health and service records.
+* **[Automotive Python SDK Guide](https://github.com/asiawritesdocs/automotive-python-sdk-docs)** - A developer-focused quickstart for integrating telematics data via Python.
 * **[Maritime Guest Services API](https://github.com/asiawritesdocs/maritime-guest-services-api)** - Industry-specific documentation for cruise ship excursions and stateroom management.
 * **[Flodesk Workflow Tutorial](https://github.com/asiawritesdocs/flodesk-workflow-tutorial)** - A step-by-step guide for non-technical users to master email automation.
 
