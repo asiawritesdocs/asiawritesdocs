@@ -1,4 +1,4 @@
-# Hi, I'm Asia! 👋
+# Hi, I'm Asia! 👋🏼
 
 I’m a Technical Writer dedicated to bridging the gap between complex systems and the people who use them. With four years of experience managing an independent copywriting business and a background in education, I specialize in translating high-level technical requirements into clear, user-centric API documentation. I believe that great communication is the foundation of great software.
 
