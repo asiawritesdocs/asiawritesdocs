@@ -14,9 +14,8 @@ I’m a Technical Writer dedicated to bridging the gap between complex systems a
 * **[Flodesk Workflow Tutorial](https://github.com/asiawritesdocs/flodesk-workflow-tutorial)** - A step-by-step guide for non-technical users to master email automation.
 
 ### 🛠️ Technical Troubleshooting & Case Studies
-**[Technical Troubleshooting Logs](https://github.com/[asiawritesdocs]/technical-troubleshooting-logs)**
+**[Technical Troubleshooting Logs](https://github.com/asiawritesdocs/technical-troubleshooting-logs)**
 A dedicated archive of real-world technical challenges I've resolved, from API authentication errors to complex system oversight.
 * **Key Skills:** REST APIs, Postman, Root Cause Analysis, Technical Documentation.
-
 ### ✉️ Get in Touch
 * **Email:** asia.writes.docs@gmail.com
